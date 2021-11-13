@@ -1,0 +1,23 @@
+QWidget#widget_title, #widget_left, #widget_right {
+	background-color: #FFFFFF;
+	border: 1px solid #efefef;
+}
+
+QLabel#label_app_name {
+	font-family: "weiruanyahei";
+	font-size: 11pt;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+QPushButton#pushButton_close {
+	
+}
+
+QPushButton#pushButton_min {
+	
+}
+
+QPushButton#pushButton_menu {
+	
+}
